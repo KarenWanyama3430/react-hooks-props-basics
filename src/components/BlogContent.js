@@ -5,4 +5,3 @@ function BlogContent(props) {
 }
 
 export default BlogContent;
-Footer
